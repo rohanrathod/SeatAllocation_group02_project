@@ -1,0 +1,264 @@
+Indian Institute of Technology Bhubaneswar
+Civil Engineering,A4109
+Electrical Engineering,A4111 
+Mechanical Engineering,A4125
+
+
+Indian Institute of Technology Guwahati
+Biotechnology,W4104
+Chemical Engineering,W4107
+Chemical Science and Technology,W4108
+Civil Engineering,W4109
+Computer Science and Engineering,W4110
+Electronics and Communication Engineering,W4114
+Electronics and Electrical Engineering,W4116
+Engineering Physics,W4117
+Mathematics and Computing,W4124
+Mechanical Engineering,W4125
+Design,W4401
+
+
+Indian Institute of Technology Bombay
+Aerospace Engineering,B4101
+Chemical Engineering,B4107
+Civil Engineering,B4109
+Computer Science and Engineering,B4110
+Electrical Engineering,B4111
+Engineering Physics,B4117
+Mechanical Engineering,B4125
+Metallurgical Engineering and Materials Science,B4128
+Chemical Engineering,B5210
+Electrical Engineering with M.Tech. in Communications and Signal Processing,B5219
+Electrical Engineering with M.Tech. in Microelectronics,B5221
+Energy Engineering with M.Tech. in Energy Systems Engineering,B5226
+Engineering Physics with M.Tech. in Engineering Physics with specialization in Nano Science,B5229
+Mechanical Engineering with M.Tech. in Computer Aided Design and Automation,B5234
+Mechanical Engineering with M.Tech. in Computer Integrated Manufacturing,B5235
+Metallurgical Engineering and Materials Science with M.Tech. in Ceramics and Composites,B5244
+Metallurgical Engineering and Materials Science with M.Tech. in Metallurgical Process Engineering,B5245
+Chemistry,B5503
+
+
+Indian Institute of Technology Hyderabad
+Chemical Engineering,H4107
+Civil Engineering,H4109
+Computer Science and Engineering,H4110
+Electrical Engineering,H4111
+Engineering Science,H4118
+Mechanical Engineering,H4125
+
+
+Indian Institute of Technology Indore
+Computer Science and Engineering,E4110
+Electrical Engineering,E4111
+Mechanical Engineering,E4125
+
+
+Indian Institute of Technology Kanpur
+Aerospace Engineering,K4101
+Biological Sciences and Bioengineering,K4103
+Chemical Engineering,K4107
+Civil Engineering,K4109
+Computer Science and Engineering,K4110
+Electrical Engineering,K4111
+Materials Science and Engineering,K4123
+Mechanical Engineering,K4125
+Chemistry,K4201
+Economics  K4202
+Mathematics and Scientific Computing,K4203
+Physics,K4204
+
+
+Indian Institute of Technology Delhi
+Chemical Engineering,D4107
+Civil Engineering,D4109
+Computer Science and Engineering,D4110
+Electrical Engineering,D4111
+Electrical Engineering (Power),D4112
+Engineering Physics,D4117
+Mechanical Engineering,D4125
+Production and Industrial Engineering,D4136
+Textile Technology,D4139
+Biochemical Engineering and Biotechnology,D5205
+Chemical Engineering,D5210
+Computer Science and Engineering,D5216
+Electrical Engineering with M.Tech. in Information and Communication Technology,D5220
+Mathematics and Computing,D5305
+
+Indian Institute of Technology Kharagpur
+Aerospace Engineering,G4101
+Agricultural and Food Engineering,G4102
+Biotechnology and Biochemical Engineering,G4105
+Chemical Engineering,G4107
+Civil Engineering,G4109
+Computer Science and Engineering,G4110
+Electrical Engineering,G4111
+Electronics and Electrical Communication Engineering,G4115
+Industrial Engineering,G4120
+Instrumentation Engineering,G4121
+Manufacturing Science and Engineering,G4122
+Mechanical Engineering,G4125
+Metallurgical and Materials Engineering,G4127
+Mining Engineering,G4130
+Ocean Engineering and Naval Architecture,G4133
+Architecture,G5101
+Agricultural and Food Engineering with M.Tech. in any of the listed specializations,G5203
+Biotechnology and Biochemical Engineering,G5208
+Chemical Engineering,G5210
+Civil Engineering with any of the listed specialization,G5215
+Computer Science and Engineering,G5216
+Electrical Engineering with M.Tech. in any of the listed specializations,G5222
+Electronics and Electrical Communication Engineering with M.Tech. in any of the listed specializations,G5225
+Industrial Engineering with M.Tech. in Industrial Engineering and Management,G5230
+Manufacturing Science and Engineering with M.Tech. in Industrial Engineering and Management,G5231
+Mechanical Engineering with M.Tech. in any of the listed specializations,G5239
+Metallurgical and Materials Engineering with M.Tech. in Metallurgical and Materials Engineering,G5243
+Mining Engineering,G5247
+Mining Safety Engineering,G5248
+Ocean Engineering and Naval Architecture,G5251
+Quality Engineering Design and Manufacturing,G5253
+Applied Geology,G5501
+Chemistry,G5503
+Economics,G5504
+Exploration Geophysics,G5505
+Mathematics and Computing,G5506
+Physics,G5507
+
+
+Indian Institute of Technology Gandhinagar
+Chemical Engineering,N4107
+Electrical Engineering,N4111
+Mechanical Engineering,N4125
+
+
+Indian Institute of Technology Mandi
+Computer Science and Engineering,C4110
+Electrical Engineering,C4111
+Mechanical Engineering,C4125
+
+
+Indian Institute of Technology Rajasthan
+Computer Science and Engineering,J4110
+Electrical Engineering,J4111
+Mechanical Engineering,J4125
+Systems Science,J4138
+
+
+Indian Institute of Technology Madras
+Aerospace Engineering,M4101
+Chemical Engineering,M4107
+Computer Science and Engineering,M4110
+Electrical Engineering,M4111
+Engineering Physics,M4117
+Mechanical Engineering,M4125
+Metallurgical and Materials Engineering,M4127
+Naval Architecture and Ocean Engineering,M4132
+Aerospace Engineering,M5201
+Aerospace Engineering with M.Tech. in Applied Mechanics with specialization in Biomedical Engineering,M5202
+Biological Engineering,M5207
+Chemical Engineering,M5210
+Civil Engineering with M.Tech. in Applied Mechanics in any of the listed specializations,M5212
+Civil Engineering (Infrastructural Civil Engineering),M5213
+Civil Engineering with any of the listed specialization,M5215
+Computer Science and Engineering,M5216
+Electrical Engineering,M5217
+Electrical Engineering with M.Tech in Applied Mechanics with specialization in Biomedical Engineering,M5218
+Engineering Design (Automotive Engineering),M5227
+Engineering Design (Biomedical Design),M5228
+Mechanical Engineering (Thermal Engineering),M5236
+Mechanical Engineering (Intelligent Manufacturing),M5237
+Mechanical Engineering (Product design),M5238
+Metallurgical and Materials Engineering,M5241
+Naval Architecture and Ocean Engineering,M5249
+Naval Architecture and Ocean Engineering with M.Tech in Applied Mechanics in any of the listed specializations,M5250
+Biological Sciences,M5601
+Physics,M5602
+
+
+Indian Institute of Technology Patna
+Computer Science and Engineering,P4110
+Electrical Engineering,P4111
+Mechanical Engineering,P4125
+
+
+Indian Institute of Technology Roorkee
+Biotechnology,R4104
+Chemical Engineering,R4107
+Civil Engineering,R4109
+Computer Science and Engineering,R4110
+Electrical Engineering,R4111
+Electronics and Communication Engineering,R4114
+Mechanical Engineering,R4125
+Metallurgical and Materials Engineering,R4127
+Polymer Science and Technology,R4135
+Production and Industrial Engineering,R4136
+Pulp and Paper Engineering,R4137
+Architecture,R5101
+Chemical Engineering with M.Tech. in Hydrocarbon Engineering,R5211
+Civil Engineering with M.Tech. in Structural Engineering,R5214
+Electrical Engineering with M.Tech. in Power Electronics,R5223
+Electronics and Communication Engineering with M.Tech. in Wireless Communication,R5224
+Metallurgical and Materials Engineering with M.Tech. in Materials Engineering,R5242
+Geological Technology,R5302
+Geophysical Technology,R5303
+Process Engineering with MBA,R5403
+Applied Mathematics,R5502
+Chemistry,R5503
+Physics,R5507
+
+
+Indian Institute of Technology Ropar
+Computer Science and Engineering,U4110
+Electrical Engineering,U4111
+Mechanical Engineering,U4125
+
+
+Indian School of Mines, Dhanbad
+Chemical Engineering,S4107
+Computer Science and Engineering,S4110
+Electrical Engineering,S4111
+Electronics and Communication Engineering,S4114
+Environmental Engineering,S4119
+Mechanical Engineering,S4125
+Mineral Engineering,S4129
+Mining Engineering,S4130
+Mining Machinery Engineering,S4131
+Petroleum Engineering,S4134
+Mineral Engineering with M.Tech in Mineral Engineering,S5246
+Mining Engineering with M.Tech. in Mining Engineering,S5247
+Petroleum Engineering with M.Tech in Petroleum Management,S5252
+Mathematics and Computing,S5305
+Mineral Engineering with MBA,S5401
+Mining Engineering with MBA,S5402
+Applied Geology,S5701
+Applied Geophysics,S5702
+
+
+Institute of Technology, Banaras Hindu University,Varanasi
+Ceramic Engineering,V4106
+Chemical Engineering,V4107
+Civil Engineering,V4109
+Computer Science and Engineering,V4110
+Electrical Engineering,V4111
+Electronics Engineering,V4113
+Mechanical Engineering,V4125
+Metallurgical Engineering,V4126
+Mining Engineering,V4130
+Pharmaceutics,V4301
+Biochemical Engineering,V5204
+Bioengineering with M.Tech in Biomedical Technology,V5206
+Ceramic Engineering,V5209
+Civil Engineering with M.Tech. in Structural Engineering,V5214
+Computer Science and Engineering,V5216
+Electrical Engineering with M.Tech. in Power Electronics,V5223
+Material Science and Technology,V5232
+Mechanical Engineering,V5233
+Metallurgical Engineering,V5240
+Mining Engineering,V5247
+Engineering Physics,V5301
+Industrial Chemistry,V5304
+Mathematics and Computing,V5305
+Pharmaceutics,V5801
+
+
+

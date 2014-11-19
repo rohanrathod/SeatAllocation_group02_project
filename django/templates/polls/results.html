@@ -1,0 +1,39 @@
+<html>
+<div align="right"><a href={% url 'polls:logout_view' %}>LOGOUT</a></div>
+<div align="center" >
+<h1 style="color:green">Welcome {{user.username}}</h1>
+<h2>Please select your preferences from here</h2>
+<form action="{% url 'polls:add' %}" method = "post">
+{% csrf_token %}
+<select name="Preferences">
+
+{% for prefs in prefsl.all %}
+	<option name='preferences' value={{ prefs.id }}>{{ prefs.pref_college }}, {{ prefs.pref_branch }}</option>
+{% endfor %}
+</select>
+<input type="submit" value="Add"/>
+</form>
+
+<h2>Your Preferred choices :</h2>
+
+</div>
+<div align="center">
+<table>
+{% for p in user.options_set.all  %}
+
+
+<tr>
+<td>{{ p.option_college }} , {{ p.option_branch }}, {{p.option_code}}</td>
+<td><a href="{% url 'polls:delete' p.pk %}">DELETE</a>
+	<a href="{% url 'polls:edit' p.pk %}">EDIT</a></td>
+</tr>
+
+{% csrf_token %}
+	
+<!--input type="submit" value="Make changes"/>
+</form>-->
+{% endfor %}
+</table>
+</div>
+</html>
+

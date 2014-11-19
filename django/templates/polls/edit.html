@@ -1,0 +1,13 @@
+
+<div align="center">
+<h2 style="color:#AF0912">Edit Your selected preference</h2>
+<form action="{% url 'polls:redirect_to_original' a %}" method = "post">
+{% csrf_token %}
+<select name="Preferences">
+{% for prefs in prefsl.all %}
+	<option name='preferences' value="{{ prefs.id }}">{{ prefs.pref_college }}, {{ prefs.pref_branch }}</option>
+{% endfor %}
+</select>
+<input type="submit" value="Submit"/>
+</form>
+</div>
